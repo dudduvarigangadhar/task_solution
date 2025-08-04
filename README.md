@@ -1,15 +1,6 @@
-# Code Refactoring Challenge
 
-## Overview
-You've inherited a legacy user management API that works but has significant issues. Your task is to refactor and improve this codebase while maintaining its functionality.
 
-## Getting Started
-
-### Prerequisites
-- Python 3.8+ installed
-- 3 hours of uninterrupted time
-
-### Setup (Should take < 5 minutes)
+### Setup ()
 ```bash
 # Clone/download this repository
 # Navigate to the assignment directory
